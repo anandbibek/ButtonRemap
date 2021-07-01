@@ -3,11 +3,17 @@ A repository for handy AutoHotKey scripts.
 
 Just download the .ahk script and double click to enable the mappings. You can open the scripts in any text editor.
 
-[Download and install Autohotkey](https://www.autohotkey.com/)
+  * [Download and install Autohotkey](https://www.autohotkey.com/)
+  * Download the .ahk script.
+  * [Optional] open the script in a text editor to satisfy your inner geek.
+  * Double click the .ahk script.
+  * You'll see an icon in your taskbar which means mapper is enabled.
+  * To stop mappings, right click on the taskbar icon and choose appropriate action.
 
+================================
 
-
-## zoom_mapper.ahk
+* ## Zoom Mute/Unmute mapping 
+[🔽 To download, right click here and select Save as](https://raw.githubusercontent.com/anandbibek/ButtonRemap/main/zoom_mapper.ahk)
 
 If you're using a bluetooth headset that can play and pause music but you are not able to mute/unmute yourselves during Zoom meetings, then look no further. 🤗
 
